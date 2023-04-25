@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-css-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owentr1369/tailwind-css-practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owentr1369/tailwind-css-practise/issues"
+  },
+  "homepage": "https://github.com/owentr1369/tailwind-css-practise#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.3.1"
+  }
+}
